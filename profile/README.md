@@ -28,7 +28,7 @@ The Sweep ecosystem is organized across the following repositories:
 
 ## $SWEEP Token
 
-Launching in **Q1 2025**, the $SWEEP token powers the protocol by rewarding users for cleaning wallets, granting governance rights, and unlocking premium features.  
+Launching soon, the $SWEEP token powers the protocol by rewarding users for cleaning wallets, granting governance rights, and unlocking premium features.  
 **Early adopters will receive retroactive token rewards** based on historical wallet cleaning activity.
 
 ---
