@@ -23,17 +23,7 @@ The Sweep ecosystem is organized across the following repositories:
 
 - **[sweep-brand](https://github.com/sweep-wtf/sweep-brand)**  
   Official branding assets, logos, and design guidelines for Sweep.
-
----
-
-## Key Features
-
-- **Automated Dust Clearing** – Convert low-value tokens into SOL effortlessly.
-- **AI-Powered Reinvestment** – Smart algorithms mirror your trading style and risk tolerance.
-- **Non-Custodial** – Your keys remain in your control at all times.
-- **Portfolio Analytics Dashboard** – Real-time performance tracking.
-- **$SWEEP Token** – Native ecosystem token with rewards, governance, and fee discounts.
-
+  
 ---
 
 ## $SWEEP Token
